@@ -1,0 +1,28 @@
+* {
+    box-sizing: border-box;
+}
+header {
+    background-image: url("img/motor_head.jpg");
+    width: 100%;
+    display: block;
+    height: 200px;
+    color:white;
+    background-repeat: no-repeat;
+    overflow: hidden;
+}
+
+header h2 {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    color:white;
+    padding: 20px;
+}
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.no-padding {
+    padding-left: 0px;
+    padding-right: 0px;
+    padding-top: 20px;
+}
